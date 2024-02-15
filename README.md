@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="blob:chrome-untrusted://media-app/dae1eebf-0eb9-4845-9e58-4461c56c4ebb" alt="XmDNgIJ - Imgur.png"/>![image](https://github.com/SDhinton1/PostInstallation-Config/assets/143854836/141a1f35-1793-4d26-ab77-44b4412673b9)
+<img src="https://i.imgur.com/0wJkXFD.png" alt="osTicket logo"/>
 </p>
 <p>
 Making of the team roles,teams,and departments is made all by the owner or admins of the website who creates the agents,roles,and departments.
@@ -36,7 +36,7 @@ Making of the team roles,teams,and departments is made all by the owner or admin
 <br />
 
 <p>
-<img src="blob:chrome-untrusted://media-app/13b1c540-ecea-4822-8ce6-1353e5caf4af" alt="nlk4Cpr - Imgur.png"/>![image](https://github.com/SDhinton1/PostInstallation-Config/assets/143854836/9024e51e-9bf3-4f6b-a3d6-10d6290727f2)
+<img src="https://i.imgur.com/jQ9Nw7I.png" alt="osTicket logo"/>
 </p>
 <p>
 Allowing users to create tickets without a password allows for more connections to be made and more problems to be solved by certain companies, users or even agents needing help who have no password.
@@ -44,7 +44,7 @@ Allowing users to create tickets without a password allows for more connections 
 <br />
 
 <p>
-<img src="blob:chrome-untrusted://media-app/9b116ca4-31c5-41bd-a199-8caf32187b60" alt="F3tXsVN - Imgur.png"/>![image](https://github.com/SDhinton1/PostInstallation-Config/assets/143854836/6b36209c-8fa6-4a3c-bf8b-ada568d6227f)
+<img src="https://i.imgur.com/1VCdhc3.png" alt="osTicket logo"/>
 </p>
 <p>
 Creating SLAs and help topics can help the agent notice the severity of the ticket asssigned to them or their team and see how they need to address certain tickets compared to others.
